@@ -1,4 +1,5 @@
-# Temporal and Evolving KG
+# Temporal KG Resource: Paper
+
 
 Here, we are concentrate on collection of research papers involving the topics, including Dynamic Knowledge Graph, Dynamic Knowledge Graph.   
 
