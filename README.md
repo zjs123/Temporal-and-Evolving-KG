@@ -33,15 +33,15 @@ Table of Contents
 
 8. Chekol, Melisachew Wudage, Pirrò, Giuseppe, Schönfisch, Jörg, Stuckenschmidt, Heiner. [Marrying Uncertainty and Time in Knowledge Graphs](https://madoc.bib.uni-mannheim.de/41533/). AAAI 2017. [[Paper]](https://madoc.bib.uni-mannheim.de/41533/)
 
-9. [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs] [ICML 2017] [[Paper]](https://arxiv.org/pdf/1705.05742.pdf)[[Code]](https://github.com/rstriv/Know-Evolve)
+9. Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs](https://arxiv.org/pdf/1705.05742.pdf). ICML 2017. [[Paper]](https://arxiv.org/pdf/1705.05742.pdf)[[Code]](https://github.com/rstriv/Know-Evolve)
 
-10. [Encoding Temporal Information for Time-Aware Link Prediction] [EMNLP 2016] [[Paper]](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf)
+10. Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Sujian Li, Baobao Chang, Zhifang Sui. [Encoding Temporal Information for Time-Aware Link Prediction](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf). EMNLP 2016. [[Paper]](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf)
 
-11. [Towards Time-Aware Knowledge Graph Completion] [COLING 2016] [[Paper]](https://www.aclweb.org/anthology/C16-1161.pdf)
+11. Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Baobao Chang, Sujian Li, Zhifang Sui. [Towards Time-Aware Knowledge Graph Completion](https://www.aclweb.org/anthology/C16-1161.pdf). COLING 2016. [[Paper]](https://www.aclweb.org/anthology/C16-1161.pdf)
 
-12. [Predicting the Co-Evolution of Event and Knowledge Graphs] [arxiv 2015] [[Paper]](https://arxiv.org/abs/1512.06900?context=cs)
+12. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Arxiv 2015. [[Paper]](https://arxiv.org/abs/1512.06900?context=cs)
 
-13. [Time-aware Reasoning in Uncertain Knowledge Bases] [VLDB 2010] [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)
+13. Yafang Wang, Mohamed Yahya, Martin Theobald. [Time-aware Reasoning in Uncertain Knowledge Bases](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1). VLDB 2010. [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)
 
 
 ## Dynamic_Graph
