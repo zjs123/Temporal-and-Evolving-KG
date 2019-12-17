@@ -21,11 +21,11 @@ Table of Contents
 
 2. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, Xiang Ren. [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph](https://arxiv.org/pdf/1904.05530.pdf). ICLR 2019. [[Paper]](https://arxiv.org/abs/1904.05530?context=cs.LG)[[Code]](https://github.com/INK-USC/RE-Net)
 
-3. [Diachronic Embedding for Temporal Knowledge Graph Completion] [arxiv 2019] [[Paper]](https://arxiv.org/abs/1907.03143)[[Code]]()
+3. Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. [Diachronic Embedding for Temporal Knowledge Graph Completion](https://arxiv.org/pdf/1907.03143.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1907.03143)
 
-4. [Efficiently Embedding Dynamic Knowledge Graphs] [arxiv 2019] [[Paper]](https://arxiv.org/abs/1910.06708)[[Code]]()
+4. Tianxing Wu, Arijit Khan, Huan Gao, Cheng Li. [Efficiently Embedding Dynamic Knowledge Graphs](https://arxiv.org/pdf/1910.06708.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1910.06708)
 
-5. [Learning Sequence Encoders for Temporal Knowledge Graph Completion] [EMNLP 2018] [[Paper]](https://www.aclweb.org/anthology/D18-1516/)[[Code]](https://github.com/bsantraigi/TA_TransE)
+5. Alberto Garc´ıa-Duran, Sebastijan Dumanciˇ c´, Mathias Niepert. [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://www.aclweb.org/anthology/D18-1516.pdf). EMNLP 2018. [[Paper]](https://www.aclweb.org/anthology/D18-1516/)[[Code]](https://github.com/bsantraigi/TA_TransE)
 
 6. [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding] [EMNLP 2018] [[Paper]](http://talukdar.net/papers/emnlp2018_HyTE.pdf)[[Code]](https://github.com/malllabiisc/HyTE)
 
