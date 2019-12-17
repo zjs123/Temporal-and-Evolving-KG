@@ -19,7 +19,7 @@ Table of Contents
 ## Dynamic_Knowledge_Graph
 1. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang. [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://www.ijcai.org/proceedings/2019/0264.pdf). IJCAI 2019. [[Paper]](https://www.ijcai.org/proceedings/2019/0264.pdf)[[Code]](https://github.com/nnzhan/Graph-WaveNet)
 
-2. [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph] [ICLR 2019] [[Paper]](https://arxiv.org/abs/1904.05530?context=cs.LG)[[Code]](https://github.com/INK-USC/RE-Net)
+2. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, Xiang Ren. [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph](https://arxiv.org/pdf/1904.05530.pdf). ICLR 2019. [[Paper]](https://arxiv.org/abs/1904.05530?context=cs.LG)[[Code]](https://github.com/INK-USC/RE-Net)
 
 3. [Diachronic Embedding for Temporal Knowledge Graph Completion] [arxiv 2019] [[Paper]](https://arxiv.org/abs/1907.03143)[[Code]]()
 
