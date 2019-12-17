@@ -13,7 +13,7 @@ Table of Contents
 
 
 ## Survey
-1. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey](https://arxiv.org/pdf/1905.11485.pdf). arxiv 2019 [[Paper]](https://arxiv.org/abs/1905.11485)
+1. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey](https://arxiv.org/pdf/1905.11485.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1905.11485)
 
 
 ## Dynamic_Knowledge_Graph
