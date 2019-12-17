@@ -45,10 +45,10 @@ Table of Contents
 
 
 ## Dynamic_Graph
-1. [Dynamic Graph Representation Learning via Self-Attention Networks] [ICLR 2019] [[Paper]](https://arxiv.org/abs/1812.09430)[[Code]](https://github.com/aravindsankar28/DySAT)
+1. Aravind Sankar, Yanhong Wu, Liang Gou, Wei Zhang, Hao Yang. [Dynamic Graph Representation Learning via Self-Attention Networks](https://arxiv.org/pdf/1812.09430.pdf). Workshop in ICLR 2019. [[Paper]](https://arxiv.org/pdf/1812.09430.pdf)[[Code]](https://github.com/aravindsankar28/DySAT)
 
-2. [DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS] [ICLR 2019] [[Paper]](https://openreview.net/pdf?id=HyePrhR5KX)
+2. Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. [DYREP: Learning Representations over Dynamic Graphs](https://openreview.net/pdf?id=HyePrhR5KX). ICLR 2019. [[Paper]](https://openreview.net/pdf?id=HyePrhR5KX)
 
-3. [Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions] [arxiv 2019] [[Paper]](https://arxiv.org/pdf/1909.10367v1.pdf)[[Code]](https://github.com/uoguelph-mlrg/LDG)
+3. Boris Knyazev, Carolyn Augusta, Graham W. Taylor. [Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions](https://arxiv.org/pdf/1909.10367v1.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1909.10367v1.pdf)[[Code]](https://github.com/uoguelph-mlrg/LDG)
 
-4. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs] [arxiv 2019] [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
+4. Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B.Schardl, Charles E. Leiserson. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
