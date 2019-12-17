@@ -27,28 +27,28 @@ Table of Contents
 
 5. Alberto Garc´ıa-Duran, Sebastijan Dumanciˇ c´, Mathias Niepert. [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://www.aclweb.org/anthology/D18-1516.pdf). EMNLP 2018. [[Paper]](https://www.aclweb.org/anthology/D18-1516/)[[Code]](https://github.com/bsantraigi/TA_TransE)
 
-6. [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding] [EMNLP 2018] [[Paper]](http://talukdar.net/papers/emnlp2018_HyTE.pdf)[[Code]](https://github.com/malllabiisc/HyTE)
+6. Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar. [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding](http://talukdar.net/papers/emnlp2018_HyTE.pdf). EMNLP 2018. [[Paper]](http://talukdar.net/papers/emnlp2018_HyTE.pdf)[[Code]](https://github.com/malllabiisc/HyTE)
 
-7. [Deriving Validity Time in Knowledge Graph] [WWW 2018] [[Paper]](https://dl.acm.org/citation.cfm?id=3191639)[[Code]]()
+7. Julien Leblay, Melisachew Wudage Chekol. [Deriving Validity Time in Knowledge Graph](http://delivery.acm.org/10.1145/3200000/3191639/p1771-leblay.pdf?ip=166.111.68.66&id=3191639&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1576559641_ddadf07828bb77c3beef18fea5fccc8f). WWW 2018. [[Paper]](http://delivery.acm.org/10.1145/3200000/3191639/p1771-leblay.pdf?ip=166.111.68.66&id=3191639&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1576559641_ddadf07828bb77c3beef18fea5fccc8f)
 
-8. [Marrying Uncertainty and Time in Knowledge Graphs] [AAAI 2017] [[Paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14730/13747)[[Code]]()
+8. Chekol, Melisachew Wudage, Pirrò, Giuseppe, Schönfisch, Jörg, Stuckenschmidt, Heiner. [Marrying Uncertainty and Time in Knowledge Graphs](https://madoc.bib.uni-mannheim.de/41533/). AAAI 2017. [[Paper]](https://madoc.bib.uni-mannheim.de/41533/)
 
 9. [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs] [ICML 2017] [[Paper]](https://arxiv.org/pdf/1705.05742.pdf)[[Code]](https://github.com/rstriv/Know-Evolve)
 
 10. [Encoding Temporal Information for Time-Aware Link Prediction] [EMNLP 2016] [[Paper]](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf)
 
-11. [Towards Time-Aware Knowledge Graph Completion] [COLING 2016] [[Paper]](https://www.aclweb.org/anthology/C16-1161.pdf)[[Code]]()
+11. [Towards Time-Aware Knowledge Graph Completion] [COLING 2016] [[Paper]](https://www.aclweb.org/anthology/C16-1161.pdf)
 
-12. [Predicting the Co-Evolution of Event and Knowledge Graphs] [arxiv 2015] [[Paper]](https://arxiv.org/abs/1512.06900?context=cs)[[Code]]()
+12. [Predicting the Co-Evolution of Event and Knowledge Graphs] [arxiv 2015] [[Paper]](https://arxiv.org/abs/1512.06900?context=cs)
 
-13. [Time-aware Reasoning in Uncertain Knowledge Bases] [VLDB 2010] [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)[[Code]]()
+13. [Time-aware Reasoning in Uncertain Knowledge Bases] [VLDB 2010] [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)
 
 
 ## Dynamic_Graph
 1. [Dynamic Graph Representation Learning via Self-Attention Networks] [ICLR 2019] [[Paper]](https://arxiv.org/abs/1812.09430)[[Code]](https://github.com/aravindsankar28/DySAT)
 
-2. [DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS] [ICLR 2019] [[Paper]](https://openreview.net/pdf?id=HyePrhR5KX)[[Code]]()
+2. [DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS] [ICLR 2019] [[Paper]](https://openreview.net/pdf?id=HyePrhR5KX)
 
 3. [Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions] [arxiv 2019] [[Paper]](https://arxiv.org/pdf/1909.10367v1.pdf)[[Code]](https://github.com/uoguelph-mlrg/LDG)
 
-4. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs] [arxiv 2019] [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)[[Code]]()
+4. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs] [arxiv 2019] [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
