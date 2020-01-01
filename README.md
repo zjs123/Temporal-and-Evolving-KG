@@ -10,6 +10,7 @@ Table of Contents
   * [Survey](#Survey)
   * [Dynamic Knowledge Graph](#Dynamic_Knowledge_Graph)
   * [Dynamic Graph](#Dynamic_Graph)
+  * [Temporal Text Mining](#Temporal_Text_Mining)
 
 
 ## Survey
@@ -58,6 +59,10 @@ Table of Contents
 
 
 6. 邱均平, 李小涛. [基于引文网络挖掘和时序分析的知识扩散研究](paper/knowledge_diffusion_research_based_citation_network.pdf). 计算机研究与发展 2017. [[Paper]](paper/knowledge_diffusion_research_based_citation_network.pdf)
+
+
+## Temporal_Text_Mining
+1. Qiaozhu Mei, Chengxiang Zhai. [Discovering Evolutionary Theme Patterns from Text - An Exploration of Temporal Text Mining](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf). ACM SIGKDD 2005. [[Paper]](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf)
 
 
 ## Temporal Knowledge Graph Curation and Visulization
