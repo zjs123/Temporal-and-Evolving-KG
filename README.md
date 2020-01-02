@@ -72,5 +72,5 @@ Table of Contents
 1. Qiaozhu Mei, Chengxiang Zhai. [Discovering Evolutionary Theme Patterns from Text - An Exploration of Temporal Text Mining](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf). ACM SIGKDD 2005. [[Paper]](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf)
 
 
-## Temporal Knowledge Graph Curation and Visulization
+## Temporal_Knowledge_Graph_Curation_and_Visulization
 1. Tong Ge, Yafang Wang, Gerard de Melo, Haofeng Li, Baoquan Chen. [Visualizing and Curating Knowledge Graphs over Time and Space](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf). ACL 2016. [[Paper]](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf)
