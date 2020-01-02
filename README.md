@@ -10,7 +10,10 @@ Table of Contents
   * [Survey](#Survey)
   * [Dynamic Knowledge Graph](#Dynamic_Knowledge_Graph)
   * [Dynamic Graph](#Dynamic_Graph)
+  * [Temporal Rule Learning](#Temporal_Rule_Learning)
   * [Temporal Text Mining](#Temporal_Text_Mining)
+  * [Temporal Knowledge Graph Curation and Visulization](#Temporal_Knowledge_Graph_Curation_and_Visulization)
+  
 
 
 ## Survey
@@ -59,6 +62,10 @@ Table of Contents
 
 
 6. 邱均平, 李小涛. [基于引文网络挖掘和时序分析的知识扩散研究](paper/knowledge_diffusion_research_based_citation_network.pdf). 计算机研究与发展 2017. [[Paper]](paper/knowledge_diffusion_research_based_citation_network.pdf)
+
+
+## Temporal_Rule_Learning
+1. Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang. [Learning Temporal Rules from Knowledge Graph Streams](http://ceur-ws.org/Vol-2350/paper15.pdf). AAAI 2019. [[Paper]](http://ceur-ws.org/Vol-2350/paper15.pdf)
 
 
 ## Temporal_Text_Mining
