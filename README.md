@@ -72,5 +72,12 @@ Table of Contents
 1. Qiaozhu Mei, Chengxiang Zhai. [Discovering Evolutionary Theme Patterns from Text - An Exploration of Temporal Text Mining](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf). ACM SIGKDD 2005. [[Paper]](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf)
 
 
+2. Yafang Wang, Zhaochuan Ren, Martin Theobald, Maximilian Dylla, Gerard de Melo. [Summary Generation for Temporal Extractions](http://gerard.demelo.org/papers/temporal-summaries.pdf). DEXA 2016. [[Paper]](http://gerard.demelo.org/papers/temporal-summaries.pdf)
+
+
+3. Shuai Xu, Jiuxin Cao, Xuelin Zhu, Yi Dong, Bo Liu. [Community Discovery Based on Social Relations and Temporal-Spatial Topics in LBSNs](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf). PAKDD 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf)
+
+
+
 ## Temporal_Knowledge_Graph_Curation_and_Visulization
 1. Tong Ge, Yafang Wang, Gerard de Melo, Haofeng Li, Baoquan Chen. [Visualizing and Curating Knowledge Graphs over Time and Space](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf). ACL 2016. [[Paper]](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf)
