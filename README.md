@@ -1,7 +1,7 @@
-# Temporal KG Resource: Paper
+# Temporal-Aware Knowledge Resource: Paper
 
 
-Here, we are concentrate on collection of research papers involving the topics, including Dynamic Knowledge Graph, Dynamic Knowledge Graph.   
+Here, we are concentrate on collection of research papers involving temporal-aware topics, including temporal rule learning and resoning, temporal relation extraction, temporal text mining, deep spatial-temporal graph modeling, embedding learning of temporal knowledge graph, temporal knowledge graph curation and visulization, temporal commonsense understanding.   
 
 
 Table of Contents
