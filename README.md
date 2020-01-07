@@ -8,8 +8,8 @@ Table of Contents
 =================
 
   * [Survey](#Survey)
-  * [Temporal Rule Learning](#Temporal_Rule_Learning)
-  * [Temporal Text Mining](#Temporal_Rule_Learning_and_Resoning)
+  * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
+  * [Temporal Text Mining](#Temporal_Text_Mining)
   * [Deep Spatial-Temporal Graph Modeling](#Deep_Spatial-Temporal_Graph_Modeling)
   * [Embedding of Temporal Knowledge Graph](#Embedding_of_Temporal_Knowledge_Graph)
   * [Temporal Knowledge Graph Curation and Visulization](#Temporal_Knowledge_Graph_Curation_and_Visulization)
@@ -38,31 +38,34 @@ Statements: A Web-Based Approach](https://link.springer.com/content/pdf/10.1007%
 
 
 ## Temporal_Text_Mining
-1. Qiaozhu Mei, Chengxiang Zhai. [Discovering Evolutionary Theme Patterns from Text - An Exploration of Temporal Text Mining](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf). ACM SIGKDD 2005. [[Paper]](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf)
-
-
-2. Yafang Wang, Bin Yang, Spyros Zoupanos, Marc Spaniol, Gerhard Weikum. [Scalable Spatio-temporal Knowledge Harvesting](http://spyros.zoupanos.net/papers/www2011.pdf). WWW 2011. [[Paper]](http://spyros.zoupanos.net/papers/www2011.pdf)
-
-
-3. Yafang Wang, Maximilian Dylla, Marc Spaniol and Gerhard Weikum. [Coupling Label Propagation and Constraints for Temporal Fact Extraction](
-https://www.aclweb.org/anthology/P12-2046.pdf). ACL 2012. [[Paper]](
-https://www.aclweb.org/anthology/P12-2046.pdf)
-
-
-4. Yafang Wang, Zhaochuan Ren, Martin Theobald, Maximilian Dylla, Gerard de Melo. [Summary Generation for Temporal Extractions](http://gerard.demelo.org/papers/temporal-summaries.pdf). DEXA 2016. [[Paper]](http://gerard.demelo.org/papers/temporal-summaries.pdf)
-
-
-5. Yafang Wang, Mingjie Zhu, Lizhen Qu, Marc Spaniol, Gerhard Weikum. [Timely YAGO: Harvesting, Querying, and Visualizing Temporal Knowledge from Wikipedia](
-https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf). ECBT 2010. [[Paper]](
-https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
-
-
-6. Junsha Chen, Neng Gao, Cong Xue, Chenyang Tu, Daren Zha. [Perceiving Topic Bubbles: Local Topic Detection in Spatio-Temporal Tweet Stream](
+1. Junsha Chen, Neng Gao, Cong Xue, Chenyang Tu, Daren Zha. [Perceiving Topic Bubbles: Local Topic Detection in Spatio-Temporal Tweet Stream](
 https://link.springer.com/content/pdf/10.1007%2F978-3-030-18579-4_43.pdf). DASFAA 2019. [[Paper]](
 https://link.springer.com/content/pdf/10.1007%2F978-3-030-18579-4_43.pdf)
 
 
-7. Shuai Xu, Jiuxin Cao, Xuelin Zhu, Yi Dong, Bo Liu. [Community Discovery Based on Social Relations and Temporal-Spatial Topics in LBSNs](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf). PAKDD 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf)
+2. Shuai Xu, Jiuxin Cao, Xuelin Zhu, Yi Dong, Bo Liu. [Community Discovery Based on Social Relations and Temporal-Spatial Topics in LBSNs](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf). PAKDD 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf)
+
+
+3. Yafang Wang, Zhaochuan Ren, Martin Theobald, Maximilian Dylla, Gerard de Melo. [Summary Generation for Temporal Extractions](http://gerard.demelo.org/papers/temporal-summaries.pdf). DEXA 2016. [[Paper]](http://gerard.demelo.org/papers/temporal-summaries.pdf)
+
+
+4. Yafang Wang, Maximilian Dylla, Marc Spaniol and Gerhard Weikum. [Coupling Label Propagation and Constraints for Temporal Fact Extraction](
+https://www.aclweb.org/anthology/P12-2046.pdf). ACL 2012. [[Paper]](
+https://www.aclweb.org/anthology/P12-2046.pdf)
+
+
+5. Yafang Wang, Bin Yang, Spyros Zoupanos, Marc Spaniol, Gerhard Weikum. [Scalable Spatio-temporal Knowledge Harvesting](http://spyros.zoupanos.net/papers/www2011.pdf). WWW 2011. [[Paper]](http://spyros.zoupanos.net/papers/www2011.pdf)
+
+
+6. Yafang Wang, Mingjie Zhu, Lizhen Qu, Marc Spaniol, Gerhard Weikum. [Timely YAGO: Harvesting, Querying, and Visualizing Temporal Knowledge from Wikipedia](
+https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf). ECBT 2010. [[Paper]](
+https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
+
+
+7. Qiaozhu Mei, Chengxiang Zhai. [Discovering Evolutionary Theme Patterns from Text - An Exploration of Temporal Text Mining](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf). ACM SIGKDD 2005. [[Paper]](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf)
+
+
+
 
 
 ## Deep_Spatial-Temporal_Graph_Modeling
