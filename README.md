@@ -9,10 +9,12 @@ Table of Contents
 
   * [Survey](#Survey)
   * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
+  * [Temporal Relation Extraction](#Temporal_Relation_Extraction)
   * [Temporal Text Mining](#Temporal_Text_Mining)
   * [Deep Spatial-Temporal Graph Modeling](#Deep_Spatial-Temporal_Graph_Modeling)
   * [Embedding Learning of Temporal Knowledge Graph](#Embedding_Learning_of_Temporal_Knowledge_Graph)
   * [Temporal Knowledge Graph Curation and Visulization](#Temporal_Knowledge_Graph_Curation_and_Visulization)
+  * [Temporal Commonsense Understanding](#Temporal_Commonsense_Understanding)
   * [Thesis](#Thesis)
 
 
@@ -35,6 +37,14 @@ Statements: A Web-Based Approach](https://link.springer.com/content/pdf/10.1007%
 
 
 5. Yafang Wang, Mohamed Yahya, Martin Theobald. [Time-aware Reasoning in Uncertain Knowledge Bases](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1). VLDB 2010. [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)
+
+
+## Temporal_Relation_Extraction
+1. Qiang Ning, Sanjay Subramanian, Dan Roth. [An Improved Neural Baseline for Temporal Relation Extraction
+](https://www.aclweb.org/anthology/D19-1642.pdf). EMNLP 2019. [[Paper]](https://www.aclweb.org/anthology/D19-1642.pdf)
+
+
+2. Rujun Han, Qiang Ning, Nanyun Peng. [Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction](https://www.aclweb.org/anthology/D19-1041.pdf). EMNLP 2019. [[Paper]](https://www.aclweb.org/anthology/D19-1041.pdf)
 
 
 ## Temporal_Text_Mining
@@ -134,6 +144,9 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 ## Temporal_QA
 1. Camille Bourgaux, Anni-Yasmin Turhan. [Temporal Query Answering in DL-Lite over Inconsistent Data](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68288-4_8.pdf). ISWC 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68288-4_8.pdf)
 
+
+## Temporal_Commonsense_Understanding
+1. Ben Zhou, Daniel Khashabi, Qiang Ning, Dan Roth. [“Going on a vacation” takes longer than “Going for a walk”: A Study of Temporal Commonsense Understanding](https://www.aclweb.org/anthology/D19-1332.pdf). EMNLP 2019. [[Paper]](https://www.aclweb.org/anthology/D19-1332.pdf)
 
 
 ## Thesis
