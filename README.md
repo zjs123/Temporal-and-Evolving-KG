@@ -78,7 +78,10 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 4. Zhendong Chu, Renqin Cai, Hongning Wang. [Accounting for Temporal Dynamics in Modeling Document Streams](https://). CIKM 2019. [[Paper]](https:)
 
 
-5. Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B.Schardl, Charles E. Leiserson. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
+5. Lei Bai, Lina Yao, Salil S. Kanhere, Xianzhi Wang, Wei Liu, Zheng Yang. [Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction](paper/Spatio-Temporal_Graph_Convolutional_and_Recurrent_.pdf). CIKM 2019. [[Paper]](paper/Spatio-Temporal_Graph_Convolutional_and_Recurrent_.pdf)
+
+
+6. Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B.Schardl, Charles E. Leiserson. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
 
 
 ## Embedding_Learning_of_Temporal_Knowledge_Graph
