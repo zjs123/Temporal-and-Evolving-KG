@@ -88,25 +88,25 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 4. Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. [DYREP: Learning Representations over Dynamic Graphs](https://openreview.net/pdf?id=HyePrhR5KX). ICLR 2019. [[Paper]](https://openreview.net/pdf?id=HyePrhR5KX)
 
 
-5. Alberto Garc´ıa-Duran, Sebastijan Dumanciˇ c´, Mathias Niepert. [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://www.aclweb.org/anthology/D18-1516.pdf). EMNLP 2018. [[Paper]](https://www.aclweb.org/anthology/D18-1516/)[[Code]](https://github.com/bsantraigi/TA_TransE)
+5. Boris Knyazev, Carolyn Augusta, Graham W. Taylor. [Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions](https://arxiv.org/pdf/1909.10367v1.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1909.10367v1.pdf)[[Code]](https://github.com/uoguelph-mlrg/LDG)
 
 
-6. Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar. [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding](http://talukdar.net/papers/emnlp2018_HyTE.pdf). EMNLP 2018. [[Paper]](http://talukdar.net/papers/emnlp2018_HyTE.pdf)[[Code]](https://github.com/malllabiisc/HyTE)
+6. Alberto Garc´ıa-Duran, Sebastijan Dumanciˇ c´, Mathias Niepert. [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://www.aclweb.org/anthology/D18-1516.pdf). EMNLP 2018. [[Paper]](https://www.aclweb.org/anthology/D18-1516/)[[Code]](https://github.com/bsantraigi/TA_TransE)
 
 
-7. Julien Leblay, Melisachew Wudage Chekol. [Deriving Validity Time in Knowledge Graph](http://delivery.acm.org/10.1145/3200000/3191639/p1771-leblay.pdf?ip=166.111.68.66&id=3191639&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1576559641_ddadf07828bb77c3beef18fea5fccc8f). WWW 2018. [[Paper]](http://delivery.acm.org/10.1145/3200000/3191639/p1771-leblay.pdf?ip=166.111.68.66&id=3191639&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1576559641_ddadf07828bb77c3beef18fea5fccc8f)
+7. Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar. [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding](http://talukdar.net/papers/emnlp2018_HyTE.pdf). EMNLP 2018. [[Paper]](http://talukdar.net/papers/emnlp2018_HyTE.pdf)[[Code]](https://github.com/malllabiisc/HyTE)
 
 
-8. Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Sujian Li, Baobao Chang, Zhifang Sui. [Encoding Temporal Information for Time-Aware Link Prediction](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf). EMNLP 2016. [[Paper]](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf)
+8. Julien Leblay, Melisachew Wudage Chekol. [Deriving Validity Time in Knowledge Graph](http://delivery.acm.org/10.1145/3200000/3191639/p1771-leblay.pdf?ip=166.111.68.66&id=3191639&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1576559641_ddadf07828bb77c3beef18fea5fccc8f). WWW 2018. [[Paper]](http://delivery.acm.org/10.1145/3200000/3191639/p1771-leblay.pdf?ip=166.111.68.66&id=3191639&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1576559641_ddadf07828bb77c3beef18fea5fccc8f)
 
 
-9. Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Baobao Chang, Sujian Li, Zhifang Sui. [Towards Time-Aware Knowledge Graph Completion](https://www.aclweb.org/anthology/C16-1161.pdf). COLING 2016. [[Paper]](https://www.aclweb.org/anthology/C16-1161.pdf)
+9. Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Sujian Li, Baobao Chang, Zhifang Sui. [Encoding Temporal Information for Time-Aware Link Prediction](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf). EMNLP 2016. [[Paper]](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf)
 
 
-10. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Arxiv 2015. [[Paper]](https://arxiv.org/abs/1512.06900?context=cs)
+10. Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Baobao Chang, Sujian Li, Zhifang Sui. [Towards Time-Aware Knowledge Graph Completion](https://www.aclweb.org/anthology/C16-1161.pdf). COLING 2016. [[Paper]](https://www.aclweb.org/anthology/C16-1161.pdf)
 
 
-11. Boris Knyazev, Carolyn Augusta, Graham W. Taylor. [Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions](https://arxiv.org/pdf/1909.10367v1.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1909.10367v1.pdf)[[Code]](https://github.com/uoguelph-mlrg/LDG)
+11. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Arxiv 2015. [[Paper]](https://arxiv.org/abs/1512.06900?context=cs)
 
 
 12. 陈德华, 殷苏娜, 乐嘉锦, 王梅, 潘乔, 朱立峰. [一种面向临床领域时序知识图谱的链接预测模型](paper/A_Linkprediction_model_for_CTKG.pdf). 计算机研究与发展 2017. [[Paper]](paper/A_Linkprediction_model_for_CTKG.pdf)
