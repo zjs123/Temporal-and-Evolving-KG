@@ -11,7 +11,7 @@ Table of Contents
   * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
   * [Temporal Text Mining](#Temporal_Text_Mining)
   * [Deep Spatial-Temporal Graph Modeling](#Deep_Spatial-Temporal_Graph_Modeling)
-  * [Embedding of Temporal Knowledge Graph](#Embedding_of_Temporal_Knowledge_Graph)
+  * [Embedding Learning of Temporal Knowledge Graph](#Embedding_Learning_of_Temporal_Knowledge_Graph)
   * [Temporal Knowledge Graph Curation and Visulization](#Temporal_Knowledge_Graph_Curation_and_Visulization)
   * [Thesis](#Thesis)
 
@@ -72,10 +72,16 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 2. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, Xiang Ren. [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph](https://arxiv.org/pdf/1904.05530.pdf). ICLR 2019. [[Paper]](https://arxiv.org/abs/1904.05530?context=cs.LG)[[Code]](https://github.com/INK-USC/RE-Net)
 
 
-3. Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B.Schardl, Charles E. Leiserson. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
+3. Zhining Liu, Dawei Zhou, Jingrui He. [Towards Explainable Representation of Time-Evolving Graphs via Spatial-Temporal Graph Attention Networks](https://dl.acm.org/doi/pdf/10.1145/3357384.3358155?download=true). CIKM 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3358155?download=true)
 
 
-## Embedding_of_Temporal_Knowledge_Graph
+4. Zhendong Chu, Renqin Cai, Hongning Wang. [Accounting for Temporal Dynamics in Modeling Document Streams](https://). CIKM 2019. [[Paper]](https:)
+
+
+5. Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B.Schardl, Charles E. Leiserson. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
+
+
+## Embedding_Learning_of_Temporal_Knowledge_Graph
 1. Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. [Diachronic Embedding for Temporal Knowledge Graph Completion](https://arxiv.org/pdf/1907.03143.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1907.03143)
 
 
@@ -120,6 +126,11 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 ## Temporal_Knowledge_Graph_Curation_and_Visulization
 1. Tong Ge, Yafang Wang, Gerard de Melo, Haofeng Li, Baoquan Chen. [Visualizing and Curating Knowledge Graphs over Time and Space](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf). ACL 2016. [[Paper]](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf)
+
+
+## Temporal_QA
+1. Camille Bourgaux, Anni-Yasmin Turhan. [Temporal Query Answering in DL-Lite over Inconsistent Data](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68288-4_8.pdf). ISWC 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68288-4_8.pdf)
+
 
 
 ## Thesis
