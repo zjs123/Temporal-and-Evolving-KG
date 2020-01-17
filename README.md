@@ -80,6 +80,9 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 1. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Fusion 2016. [[Paper]](https://arxiv.org/pdf/1512.06900.pdf)
 
 
+2. 邱均平, 李小涛. [基于引文网络挖掘和时序分析的知识扩散研究](paper/knowledge_diffusion_research_based_citation_network.pdf). 计算机研究与发展 2017. [[Paper]](paper/knowledge_diffusion_research_based_citation_network.pdf)
+
+
 ## Deep_Spatial-Temporal_Graph_Modeling
 1. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang. [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://www.ijcai.org/proceedings/2019/0264.pdf). IJCAI 2019. [[Paper]](https://www.ijcai.org/proceedings/2019/0264.pdf)[[Code]](https://github.com/nnzhan/Graph-WaveNet)
 
@@ -137,9 +140,6 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 13. 陈德华, 殷苏娜, 乐嘉锦, 王梅, 潘乔, 朱立峰. [一种面向临床领域时序知识图谱的链接预测模型](paper/A_Linkprediction_model_for_CTKG.pdf). 计算机研究与发展 2017. [[Paper]](paper/A_Linkprediction_model_for_CTKG.pdf)
-
-
-14. 邱均平, 李小涛. [基于引文网络挖掘和时序分析的知识扩散研究](paper/knowledge_diffusion_research_based_citation_network.pdf). 计算机研究与发展 2017. [[Paper]](paper/knowledge_diffusion_research_based_citation_network.pdf)
 
 
 ## Temporal_Knowledge_Graph_Curation_and_Visulization
