@@ -11,7 +11,7 @@ Table of Contents
   * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
   * [Temporal Relation Extraction](#Temporal_Relation_Extraction)
   * [Temporal Text Mining](#Temporal_Text_Mining)
-  * [Evolution Analysis and Prediction based Event](Evolution_Analysis_and_Prediction_based_Event)
+  * [Evolution Analysis and Prediction based Event](#Evolution_Analysis_and_Prediction_based_Event)
   * [Deep Spatial-Temporal Graph Modeling](#Deep_Spatial-Temporal_Graph_Modeling)
   * [Embedding Learning of Temporal Knowledge Graph](#Embedding_Learning_of_Temporal_Knowledge_Graph)
   * [Temporal Knowledge Graph Curation and Visulization](#Temporal_Knowledge_Graph_Curation_and_Visulization)
@@ -77,11 +77,11 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 ## Evolution_Analysis_and_Prediction_based_Event
-1. Qiaozhu Mei, Chengxiang Zhai. [Discovering Evolutionary Theme Patterns from Text - An Exploration of Temporal Text Mining](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf). ACM SIGKDD 2005. [[Paper]](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf)
+1. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Fusion 2016. [[Paper]](https://arxiv.org/pdf/1512.06900.pdf)
 
 
 ## Deep_Spatial-Temporal_Graph_Modeling
-1. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Fusion 2016. [[Paper]](https://arxiv.org/pdf/1512.06900.pdf)
+1. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang. [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://www.ijcai.org/proceedings/2019/0264.pdf). IJCAI 2019. [[Paper]](https://www.ijcai.org/proceedings/2019/0264.pdf)[[Code]](https://github.com/nnzhan/Graph-WaveNet)
 
 
 2. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, Xiang Ren. [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph](https://arxiv.org/pdf/1904.05530.pdf). ICLR 2019. [[Paper]](https://arxiv.org/abs/1904.05530?context=cs.LG)[[Code]](https://github.com/INK-USC/RE-Net)
