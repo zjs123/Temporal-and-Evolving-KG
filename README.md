@@ -24,20 +24,23 @@ Table of Contents
 
 
 ## Temporal_Rule_Learning_and_Resoning
-1. Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang. [Learning Temporal Rules from Knowledge Graph Streams](http://ceur-ws.org/Vol-2350/paper15.pdf). AAAI 2019. [[Paper]](http://ceur-ws.org/Vol-2350/paper15.pdf)
+1. Tanya Goyal, Greg Durrett. [Embedding time expressions for deep temporal ordering models](https://arxiv.org/pdf/1906.08287.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1906.08287.pdf)
 
 
-2. Boyi Hou, Youcef Nafa. [Enabling Temporal Reasoning for Fact
+2. Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang. [Learning Temporal Rules from Knowledge Graph Streams](http://ceur-ws.org/Vol-2350/paper15.pdf). AAAI 2019. [[Paper]](http://ceur-ws.org/Vol-2350/paper15.pdf)
+
+
+3. Boyi Hou, Youcef Nafa. [Enabling Temporal Reasoning for Fact
 Statements: A Web-Based Approach](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91455-8_9.pdf). DASFAA 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91455-8_9.pdf)
 
 
-3. Chekol, Melisachew Wudage, Pirrò, Giuseppe, Schönfisch, Jörg, Stuckenschmidt, Heiner. [Marrying Uncertainty and Time in Knowledge Graphs](https://madoc.bib.uni-mannheim.de/41533/). AAAI 2017. [[Paper]](https://madoc.bib.uni-mannheim.de/41533/)
+4. Chekol, Melisachew Wudage, Pirrò, Giuseppe, Schönfisch, Jörg, Stuckenschmidt, Heiner. [Marrying Uncertainty and Time in Knowledge Graphs](https://madoc.bib.uni-mannheim.de/41533/). AAAI 2017. [[Paper]](https://madoc.bib.uni-mannheim.de/41533/)
 
 
-4. Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs](https://arxiv.org/pdf/1705.05742.pdf). ICML 2017. [[Paper]](https://arxiv.org/pdf/1705.05742.pdf)[[Code]](https://github.com/rstriv/Know-Evolve)
+5. Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs](https://arxiv.org/pdf/1705.05742.pdf). ICML 2017. [[Paper]](https://arxiv.org/pdf/1705.05742.pdf)[[Code]](https://github.com/rstriv/Know-Evolve)
 
 
-5. Yafang Wang, Mohamed Yahya, Martin Theobald. [Time-aware Reasoning in Uncertain Knowledge Bases](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1). VLDB 2010. [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)
+6. Yafang Wang, Mohamed Yahya, Martin Theobald. [Time-aware Reasoning in Uncertain Knowledge Bases](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1). VLDB 2010. [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)
 
 
 ## Temporal_Relation_Extraction
