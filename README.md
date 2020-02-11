@@ -10,6 +10,7 @@ Table of Contents
   * [Survey](#Survey)
   * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
   * [Temporal Relation Extraction](#Temporal_Relation_Extraction)
+  * [Temporal Relation Checking](#Temporal_Relation_Checking)
   * [Temporal Text Mining](#Temporal_Text_Mining)
   * [Evolution Analysis and Prediction based Event](#Evolution_Analysis_and_Prediction_based_Event)
   * [Deep Spatial-Temporal Graph Modeling](#Deep_Spatial-Temporal_Graph_Modeling)
@@ -24,23 +25,26 @@ Table of Contents
 
 
 ## Temporal_Rule_Learning_and_Resoning
-1. Tanya Goyal, Greg Durrett. [Embedding time expressions for deep temporal ordering models](https://arxiv.org/pdf/1906.08287.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1906.08287.pdf)
+1. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, Xiang Ren. [Recurrent Event Network for Reasoning over Temporal Knowledge Graphs](https://arxiv.org/pdf/1906.08287.pdf). ICLR 2019. [[Paper]](https://arxiv.org/pdf/1904.05530.pdf)[[Code]](https://github.com/INK-USC/RE-Net)
 
 
-2. Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang. [Learning Temporal Rules from Knowledge Graph Streams](http://ceur-ws.org/Vol-2350/paper15.pdf). AAAI 2019. [[Paper]](http://ceur-ws.org/Vol-2350/paper15.pdf)
+2. Tanya Goyal, Greg Durrett. [Embedding time expressions for deep temporal ordering models](https://arxiv.org/pdf/1906.08287.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1906.08287.pdf)
 
 
-3. Boyi Hou, Youcef Nafa. [Enabling Temporal Reasoning for Fact
+3. Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang. [Learning Temporal Rules from Knowledge Graph Streams](http://ceur-ws.org/Vol-2350/paper15.pdf). AAAI 2019. [[Paper]](http://ceur-ws.org/Vol-2350/paper15.pdf)
+
+
+4. Boyi Hou, Youcef Nafa. [Enabling Temporal Reasoning for Fact
 Statements: A Web-Based Approach](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91455-8_9.pdf). DASFAA 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91455-8_9.pdf)
 
 
-4. Chekol, Melisachew Wudage, Pirrò, Giuseppe, Schönfisch, Jörg, Stuckenschmidt, Heiner. [Marrying Uncertainty and Time in Knowledge Graphs](https://madoc.bib.uni-mannheim.de/41533/). AAAI 2017. [[Paper]](https://madoc.bib.uni-mannheim.de/41533/)
+5. Chekol, Melisachew Wudage, Pirrò, Giuseppe, Schönfisch, Jörg, Stuckenschmidt, Heiner. [Marrying Uncertainty and Time in Knowledge Graphs](https://madoc.bib.uni-mannheim.de/41533/). AAAI 2017. [[Paper]](https://madoc.bib.uni-mannheim.de/41533/)
 
 
-5. Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs](https://arxiv.org/pdf/1705.05742.pdf). ICML 2017. [[Paper]](https://arxiv.org/pdf/1705.05742.pdf)[[Code]](https://github.com/rstriv/Know-Evolve)
+6. Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs](https://arxiv.org/pdf/1705.05742.pdf). ICML 2017. [[Paper]](https://arxiv.org/pdf/1705.05742.pdf)[[Code]](https://github.com/rstriv/Know-Evolve)
 
 
-6. Yafang Wang, Mohamed Yahya, Martin Theobald. [Time-aware Reasoning in Uncertain Knowledge Bases](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1). VLDB 2010. [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)
+7. Yafang Wang, Mohamed Yahya, Martin Theobald. [Time-aware Reasoning in Uncertain Knowledge Bases](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1). VLDB 2010. [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)
 
 
 ## Temporal_Relation_Extraction
@@ -49,6 +53,13 @@ Statements: A Web-Based Approach](https://link.springer.com/content/pdf/10.1007%
 
 
 2. Rujun Han, Qiang Ning, Nanyun Peng. [Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction](https://www.aclweb.org/anthology/D19-1041.pdf). EMNLP 2019. [[Paper]](https://www.aclweb.org/anthology/D19-1041.pdf)
+
+
+3. Partha Pratim Talukdar, Derry Wijaya, Tom Mitchell. [Acquiring temporal constraints between relations](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/pubs/talukdar-cikm12.pdf). CIKM 2012. [[Paper]](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/pubs/talukdar-cikm12.pdf)
+
+
+## Temporal_Relation_Checking
+1. Partha Pratim Talukdar, Derry Wijaya, Tom Mitchell. [Coupled Temporal Scoping of Relational Facts](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf). WSDM 2012. [[Paper]](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf)
 
 
 ## Temporal_Text_Mining
@@ -84,6 +95,9 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 2. 邱均平, 李小涛. [基于引文网络挖掘和时序分析的知识扩散研究](paper/knowledge_diffusion_research_based_citation_network.pdf). 计算机研究与发展 2017. [[Paper]](paper/knowledge_diffusion_research_based_citation_network.pdf)
+
+
+3. Nathanael Chambers, Taylor Cassidy, Bill McDowell, Steven Bethard. [Dense Event Ordering with a Multi-Pass Architecture](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00182). TACL 2014. [[Paper]](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00182)
 
 
 ## Deep_Spatial-Temporal_Graph_Modeling
