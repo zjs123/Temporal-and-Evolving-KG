@@ -120,7 +120,7 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 ## Embedding_Learning_of_Temporal_Knowledge_Graph
-1. Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. [Diachronic Embedding for Temporal Knowledge Graph Completion](https://arxiv.org/pdf/1907.03143.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1907.03143)
+1. Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. [Diachronic Embedding for Temporal Knowledge Graph Completion](https://arxiv.org/pdf/1907.03143.pdf). AAAI 2020. [[Paper]](https://arxiv.org/abs/1907.03143)
 
 
 2. Tianxing Wu, Arijit Khan, Huan Gao, Cheng Li. [Efficiently Embedding Dynamic Knowledge Graphs](https://arxiv.org/pdf/1910.06708.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1910.06708)
