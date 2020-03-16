@@ -119,6 +119,9 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 6. Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B.Schardl, Charles E. Leiserson. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
 
 
+[三大顶会看动态图表示学习](https://mp.weixin.qq.com/s/Dft_S-qqiXJJmVidEpTGeA). 
+
+
 ## Embedding_Learning_of_Temporal_Knowledge_Graph
 1. Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. [Diachronic Embedding for Temporal Knowledge Graph Completion](https://arxiv.org/pdf/1907.03143.pdf). AAAI 2020. [[Paper]](https://arxiv.org/abs/1907.03143)
 
