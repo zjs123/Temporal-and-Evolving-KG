@@ -127,7 +127,14 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 9. Yuan Zuo, Guannan Liu, Hao Lin, Jia Guo, Xiaoqian Hu, Junjie Wu. [Embedding Temporal Network via Neighborhood Formation](https://zuoyuan.github.io/files/htne_kdd18.pdf). KDD 2018. [[Paper]](https://zuoyuan.github.io/files/htne_kdd18.pdf)
 
+
 [三大顶会看动态图表示学习](https://mp.weixin.qq.com/s/Dft_S-qqiXJJmVidEpTGeA)
+
+
+[图系列 # 7篇动态时空图网络学习必读的顶会论文](https://mp.weixin.qq.com/s/XbCYkirF9_Z_KjuBpnZCxQ)
+
+
+[知识图谱 # 最近三年知识图谱在动态以及时间预测与补全上必读的6篇论文](https://mp.weixin.qq.com/s/UIgPcv1z7SuCCN6UruNl-A)
 
 
 ## Embedding_Learning_of_Temporal_Knowledge_Graph
