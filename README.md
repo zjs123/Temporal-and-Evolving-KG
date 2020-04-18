@@ -12,6 +12,7 @@ Table of Contents
   * [Temporal Relation Extraction](#Temporal_Relation_Extraction)
   * [Temporal Relation Checking](#Temporal_Relation_Checking)
   * [Temporal Text Mining](#Temporal_Text_Mining)
+  * [Event-Centric Temporal Knowledge Graph](#Event_Centric_Temporal_Knowledge_Graph)
   * [Evolution Analysis and Prediction based Event](#Evolution_Analysis_and_Prediction_based_Event)
   * [Deep Spatial-Temporal Graph Modeling](#Deep_Spatial-Temporal_Graph_Modeling)
   * [Embedding Learning of Temporal Knowledge Graph](#Embedding_Learning_of_Temporal_Knowledge_Graph)
@@ -88,6 +89,10 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
 7. Qiaozhu Mei, Chengxiang Zhai. [Discovering Evolutionary Theme Patterns from Text - An Exploration of Temporal Text Mining](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf). ACM SIGKDD 2005. [[Paper]](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf)
+
+
+## Event_Centric_Temporal_Knowledge_Graph
+1. Simon Gottschalk, Elena Demidova. [EventKG: A Multilingual Event-Centric Temporal Knowledge Graph](https://arxiv.org/pdf/1804.04526.pdf). ESWC 2018. [[Paper]](https://arxiv.org/pdf/1804.04526.pdf)
 
 
 ## Evolution_Analysis_and_Prediction_based_Event
