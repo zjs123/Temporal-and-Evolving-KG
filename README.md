@@ -22,7 +22,10 @@ Table of Contents
 
 
 ## Survey
-1. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey](https://arxiv.org/pdf/1905.11485.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1905.11485)
+1. Dat Quoc Nguyen. [An overview of embedding models of entities and relationships for knowledge base completion](https://arxiv.org/pdf/1703.08098.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/1703.08098.pdf)
+
+
+2. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey](https://arxiv.org/pdf/1905.11485.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1905.11485)
 
 
 ## Temporal_Rule_Learning_and_Resoning
