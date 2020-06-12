@@ -192,6 +192,9 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 [知识图谱 # 最近三年知识图谱在动态以及时间预测与补全上必读的6篇论文](https://mp.weixin.qq.com/s/UIgPcv1z7SuCCN6UruNl-A)
 
 
+[论文导读 | TemporalGCN](https://mp.weixin.qq.com/s/o6eDGiA8uUPBOgDDe0R1Lw)
+
+
 ## Temporal_Knowledge_Graph_Curation_and_Visulization
 1. Tong Ge, Yafang Wang, Gerard de Melo, Haofeng Li, Baoquan Chen. [Visualizing and Curating Knowledge Graphs over Time and Space](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf). ACL 2016. [[Paper]](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf)
 
