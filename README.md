@@ -185,6 +185,9 @@ https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 15. 陈德华, 殷苏娜, 乐嘉锦, 王梅, 潘乔, 朱立峰. [一种面向临床领域时序知识图谱的链接预测模型](paper/A_Linkprediction_model_for_CTKG.pdf). 计算机研究与发展 2017. [[Paper]](paper/A_Linkprediction_model_for_CTKG.pdf)
 
+16. Chenjin Xu Author Mojtaba Nayyeri Fouad Alkhoury Hamed Yazdi and Jens Lehmann [Temporal Knowledge Graph Completion based
+on Time Series Gaussian Embedding](https://arxiv.org/pdf/1911.07893.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1911.07893.pdf)
+
 
 [三大顶会看动态图表示学习](https://mp.weixin.qq.com/s/Dft_S-qqiXJJmVidEpTGeA)
 
